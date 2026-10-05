@@ -11,7 +11,7 @@
 | Day 03 | operators.py | Done |
   Day 04 | strings.py | Done | 
  Day 05 | lists.py | Done |
-  Day 06 | operators.py | Done |
+  Day 06 | tuples.py | Done |
    
   
   
