@@ -10,4 +10,6 @@
 | Day 02 | Variables & Built-in Functions | Done |
 | Day 03 | operators.py | Done |
   Day 04 | strings.py | Done | 
+ Day 05 | lists.py | Done |
+   
   
