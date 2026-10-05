@@ -12,6 +12,6 @@
   Day 04 | strings.py | Done | 
  Day 05 | lists.py | Done |
   Day 06 | tuples.py | Done |
- Day 06 | tuples.py | 
+ Day 07 | sets.py | Done  |
   
   
